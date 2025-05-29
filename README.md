@@ -4,7 +4,7 @@
 
 A web application to track job applications made by users in a card format. Users can create an account to keep record on each application, showing live statistics on the total amount of applications made and their current status.
 
-https://github.com/user-attachments/assets/8b1c5ffb-5ea7-4322-9d3b-5d7464fb55c1
+https://github.com/user-attachments/assets/6e1c76b0-52a1-4739-9fa4-48fa5be2ec73
 
 ### Motivation
 
