@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/8b1c5ffb-5ea7-4322-9d3b-5d7464fb55c1
 
 ### Motivation
 
-Instead of keeping a csv file on all the applications made, I decided to create full-stack web application to help my resume along with my job search.
+Instead of keeping a csv file on all the applications made, I decided to create a full-stack web application to help my job search. Using different technologies and techniques to showcase my skills and improve my time spent on job applications.
 
 ### Features
 
